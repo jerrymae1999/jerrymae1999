@@ -21,7 +21,7 @@ I am an Aspiring Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :seedling: Exploring more tech stack.
 
-- :mailbox: How to reach me: <a href="https://www.linkedin.com/in/jerry-mae-gabutan">"jggabutan@up.edu.ph"</a>
+- :mailbox: How to reach me: <a href="https://www.linkedin.com/in/jerry-mae-gabutan">jggabutan@up.edu.ph</a>
 
 <!--
 **jerrymae1999/jerrymae1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
