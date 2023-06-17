@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Jerry Mae
 _______________________________
-Aspiring developer from the Philippines
+## Aspiring developer from the Philippines
 <!--
 **jerrymae1999/jerrymae1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
