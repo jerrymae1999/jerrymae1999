@@ -17,11 +17,11 @@
 
 ### :woman_technologist: About Me :
 I am an Aspiring Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines.
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’ve worked as a Frontend and Software Developer.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring more tech stack.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- 📫 How to reach me: ...
 
 - :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat&logo=Gmail&logoColor=red)](https://mail.google.com/mail/#compose?compose=jggabutan@up.edu.ph)
 
