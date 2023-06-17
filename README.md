@@ -34,7 +34,7 @@ I am an Aspiring Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jerrymae1999&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jerrymae1999)](https://git.io/streak-stats)
 
 <!--
 **jerrymae1999/jerrymae1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
