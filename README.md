@@ -21,13 +21,8 @@ I am an Aspiring Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :seedling: Exploring more tech stack.
 
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/jerry-mae-gabutan">jggabutan@up.edu.ph</a>
+- :mailbox: How to reach me: <a href="https://www.linkedin.com/in/jerry-mae-gabutan">jggabutan@up.edu.ph</a>
 
-- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-blue?style=flat&logo=Gmail&logoColor=red)](https://mail.google.com/mail/#compose?compose=jggabutan@up.edu.ph)
-
-### Hi there 👋, I'm Jerry Mae
-_______________________________
-## Aspiring developer from the Philippines
 <!--
 **jerrymae1999/jerrymae1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
