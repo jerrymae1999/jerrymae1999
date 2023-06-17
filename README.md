@@ -13,9 +13,7 @@
   </h1>
 </div>
 
-<h1>
   I am an Aspiring Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines.
-</h1>
 
 - :telescope: I’ve worked as a Frontend and Software Developer.
 
