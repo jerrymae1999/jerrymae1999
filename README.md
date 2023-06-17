@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <a>I am an Aspiring Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines.</a>
+  <p>I am an Aspiring Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines.</p>
 </div>
 
 - :telescope: I’ve worked as a Frontend and Software Developer.
