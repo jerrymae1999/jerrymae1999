@@ -16,9 +16,11 @@
 I am an Aspiring Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Philippines.
 - :telescope: I’ve worked as a Frontend and Software Developer.
 
-- :seedling: Exploring more tech stack.
+- :seedling: I'm currently exploring more tech stack.
 
 - :mailbox: How to reach me: <a href="https://www.linkedin.com/in/jerry-mae-gabutan">jggabutan@up.edu.ph</a>
+
+### :hammer_and_wrench: Languages and Tools :
 
 <!--
 **jerrymae1999/jerrymae1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
